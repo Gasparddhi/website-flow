@@ -10,3 +10,7 @@ paul
 jean 
 edouard 
 st joseph 
+coucou
+bonjour 
+salut 
+aurevoir 
